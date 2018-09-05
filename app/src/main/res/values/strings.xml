@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="calcular">Calcular</string>
+    <string name="Limpar">Limpar</string>
+    <string name="Saldo">Saldo Atual</string>
+    <string name="NovoValor">Novo Valor</string>
+</resources>
